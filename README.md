@@ -1,9 +1,9 @@
 # Data Engineer Journey 🚀
  Documenting my learning progress in data engineering 
-# Why did i create this repo?
+## Why did i create this repo?
 I want to track the progress of my learning in the data engineering field. In this project, I'll probably put my result of learning something whether it can be from online courses or other resources.
 
-# Online Courses
+## Online Courses
 Here I put some courses related to data engineering that I've taken and will be done in the future
 | status  | **Name** | **Source** | **Short Description** | 
 | ---------- | ----- | ------ | --------- |
