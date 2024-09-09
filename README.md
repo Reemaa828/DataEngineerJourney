@@ -7,4 +7,5 @@ I want to track the progress of my learning in the data engineering field. In th
 Here I put some courses related to data engineering that I've taken and will be done in the future
 | status  | **Name** | **Source** | **Short Description** | 
 | ---------- | ----- | ------ | --------- |
-| ongoing | [Database Fundamentals](https://maharatech.gov.eg/mod/hvp/view.php?id=7135)  | mahratech  | Learning database for beginners |
+| ongoing | [Database Fundamentals Course](https://maharatech.gov.eg/mod/hvp/view.php?id=7135)  | mahratech  | Learning database for beginners |
+| ongoing | [Database Fundamentals Book](http://debracollege.dspaces.org/bitstream/123456789/168/1/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)  | book | database fundamentals |
