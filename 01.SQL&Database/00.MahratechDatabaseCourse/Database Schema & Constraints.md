@@ -1,0 +1,38 @@
+## We need to convert our designs and tables to a physical design in our DBMS using `SQL`
+
+## What's SQL?
+Structured query language is a programming language used in the database. it's divided into three parts DDL, DML, DCL.
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/b3e73d967b0fbaac24d78a8036d98dfe/raw/image.png)
+
+
+## What's a data schema?
+- It's a group of related objects in the database.
+- There is one owner of a schema who has access to manipulate the structure of any object in the schema. 
+
+## What's a data type?
+- A data type determines the type of data that will be stored in the database column.
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/f95c0ebed5f35ca43b6ab298ec87c5e1/raw/image.png)
+
+## What's a data constraints?
+- restrictions on the database table or object to maintain integrity of data.
+- constrains:
+     - primary key
+     ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/10726d667552ca09ceda24b9cbee2dee/raw/image.png)
+
+     - not null constraints
+     ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/280182eab5450d4e63224c63f5500bb1/raw/image.png)
+
+
+    -  unique key
+     ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/c97f9777a8ec3f94da46eebcaf17bd36/raw/image.png)
+
+     - Referential integrity works with insert or delete
+         - if i have to insert: insert in the parent record(record that has primary key) first then in the child record(record that has foreign key).
+         - if i have to delete: delete the table with foreign key first then the primary key
+        ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/aa157fd75cdea15b21013dd3a892aebe/raw/image.png)
+
+    - check constraints 
+         - if the salaries have to be between 10,000 and 12,000 then it will check the maximum and minimum of field.
+        ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/159b7691c86ea38f1451879e0262a0bd/raw/image.png)
+
+     

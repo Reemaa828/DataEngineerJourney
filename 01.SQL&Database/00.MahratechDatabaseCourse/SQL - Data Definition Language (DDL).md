@@ -1,0 +1,23 @@
+## Commands of DDL
+responsible for the database structure of objects; which means i can create, edit, and delete.
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/09ca84ea1bacf315c6349acb05df56a3/raw/image.png)
+
+`command <name of table>( <name of column> <data type> <constraints>,  <name of column> <data type>  )`
+______ 
+### `Create` : used to create a table 
+`CREATE TABLE Students( ID NUMBER PRIMARY KEY, First_Name CHAR(50), Last_Name CHAR(50), Birth_Date DATE)`
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/c8db5185d5fcbf92d85303b1ae010855/raw/image.png)
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/a53eb21639d65fafd77709e29c4c722f/raw/image.png)
+_____________
+### `alter`: used to edit the table that had been created
+`alter table students add age number`
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/81e0b469748911acd97e07956c9a1acd/raw/image.png)
+
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/f019177f28e4f64e418fcd7b25e4918b/raw/image.png)
+`alter table students drop age number`
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/0e3d9d2da854b79ba9a20a3271ef57d3/raw/image.png)
+_______________
+
+### `drop`: used to delete the table created
+`drop table students`
+![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/774c9090e8856cc672fac7a24a7526de/raw/image.png)
