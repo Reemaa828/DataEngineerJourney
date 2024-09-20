@@ -1,3 +1,5 @@
+# Detele
+
 ## `delete`
 ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/fcd28970ddb580caadbb29d497907e27/raw/image.png)
 ## `truncate`
