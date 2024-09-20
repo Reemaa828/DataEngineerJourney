@@ -1,4 +1,4 @@
-
+# SELECT
 ## `select` :  used to display data
 `select dname, fname from students ` display these columns only
 ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/adcd81fef43829edaa782edacf9054de/raw/image.png)
