@@ -1,4 +1,4 @@
-# INDEX
+# Index
 ## Why do indexes exist?
 - it's because the database is scattered & unsorted so indexes exist to speed up retrievals of records in response to certain search conditions
 - can be defined for multiple columns
