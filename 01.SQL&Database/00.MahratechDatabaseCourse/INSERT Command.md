@@ -1,3 +1,6 @@
+# INSERT
+
+
 `insert into empolyee(name, date, ssn)
 `Values( 'char' ,'date', 100120)`
 
