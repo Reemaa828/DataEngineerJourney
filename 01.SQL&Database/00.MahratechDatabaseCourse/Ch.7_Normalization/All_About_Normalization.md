@@ -1,3 +1,5 @@
+# Normalization
+
 ## What's Normalization of Data?
 - performing a group of tests called `normal forms` to:
     - verify the goodness of our database design and thus minimize redundancy and anomalies like update, delete and insert also frequent null values
@@ -30,7 +32,8 @@ ______________
 __________
 ## So What's Normalization actually is?
 - It's process of decomposing unsatisfactory "bad" relations into smaller relations using their attributes.
-- ![[Untitled video - Made with Clipchamp.gif]]
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/c49931a2-49ce-44ab-a9d2-28bce370bfa5)
+
 
 ## What's a normal form?
 - condition using keys and foreign keys of a table to determine if the schema belongs to which normal form.
@@ -46,7 +49,7 @@ Example:
 ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/98269330d0ee29d091751e67a2754268/raw/image.png)
 __________
 ## Normal forms are sequential; meaning if my relation is applies the `1nf` then sequentially it may apply second normal form.
-![[Untitled video - Made with Clipchamp (1).gif]]
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/b512ed8f-c393-49bb-be33-da6ce17c0d95)
 
 _________
 ### When can i say that the table is in second normal form `2nf`?
