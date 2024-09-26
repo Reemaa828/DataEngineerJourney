@@ -1,4 +1,4 @@
-<img src="../images/database.svg" width=80 align="left">
+<img src="../../images/database.svg" width=80 align="left">
 
 # Introduction to Database
 
