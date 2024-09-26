@@ -9,3 +9,4 @@ Here I put some courses related to data engineering that I've taken and will be 
 | ---------- | ----- | ------ | --------- |
 | ongoing | [Database Fundamentals Course](https://maharatech.gov.eg/mod/hvp/view.php?id=7135)  | mahratech  | Learning database for beginners |
 | ongoing | [Database Fundamentals Book](http://debracollege.dspaces.org/bitstream/123456789/168/1/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)  | book | database fundamentals |
+|ongoing | [MS SQL Server for beginner playlist](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=CnRSYT_x4MpmHgfH) | youtube | sql basics |
