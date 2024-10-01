@@ -1,3 +1,4 @@
+# CH.2 Database System Concepts and Architecture
 ## What does data abstraction mean in the database approach?
 Data abstraction means the suppression of  details of data organization, data storage and any details that a specific type of users don't care to know.
 Data abstraction is made so that different users can view data at a preferred level of detail.
