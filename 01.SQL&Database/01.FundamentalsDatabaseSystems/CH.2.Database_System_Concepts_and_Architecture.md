@@ -5,8 +5,9 @@ Data abstraction is made so that different users can view data at a preferred le
 ## What's a data model?
 A data model is a collection of concepts that describe the data structure of the data base; data structure means the data type, the data structure and the constrains of data used in the database. 
 ### Types of data models
+![Pasted image 20240910183037](https://github.com/user-attachments/assets/63707702-aa36-43c4-bf78-c17995fac827)
 
-![[Pasted image 20240910183037.png]]
+
 1. Conceptual/High-level data model: it provides concepts that are close to the way that users perceive the data.
 2. Representational data model: it provides concepts that end user can easily understand.
 3. Physical/Low-level data model: it provides concepts that provides details of how data is stored on storage media.
