@@ -13,6 +13,6 @@ Here I put some courses related to data engineering that I've taken and will be 
 |✔️| [Database Fundamentals Course](https://maharatech.gov.eg/mod/hvp/view.php?id=7135)  | mahratech  | Learning database for beginners |
 | ongoing | [Database Fundamentals Book](http://debracollege.dspaces.org/bitstream/123456789/168/1/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)  | book | database fundamentals |
 |✔️| [MS SQL Server for beginner playlist (ARABIC)](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=CnRSYT_x4MpmHgfH) | youtube | sql basics |
-|ongoing| [Docker and K8s](https://www.youtube.com/watch?v=PrusdhS2lmo&t=10116s) | youtube | Docker and kubernetes crash course |
+|ongoing| [Docker ](https://www.youtube.com/watch?v=PrusdhS2lmo&t=10116s) | youtube | Docker crash course |
 |ongoing| [SQL for data analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=134s) | youtube | sql intermediate |
 
