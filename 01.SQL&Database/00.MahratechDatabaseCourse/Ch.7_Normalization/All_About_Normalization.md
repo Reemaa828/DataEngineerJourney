@@ -71,4 +71,4 @@ ____________
 
 >[!TIP]
 >- It's recommended to stop at the third normal form.
->- there's fourth and fifth... and so on normal forms but it may effect the performance.
+>- there's fourth and fifth... and so on normal forms but it may affect the performance.
