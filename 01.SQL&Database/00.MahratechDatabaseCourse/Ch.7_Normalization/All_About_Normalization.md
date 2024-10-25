@@ -48,7 +48,7 @@ Example:
 - we have to make them into smaller tables by taking `pk` as `fk` into new table.
 ![image.png](https://itg.singhinder.com?url=https://gist.githubusercontent.com/Reemaa828/98269330d0ee29d091751e67a2754268/raw/image.png)
 __________
-## Normal forms are sequential; meaning if my relation is applies the `1nf` then sequentially it may apply second normal form.
+## Normal forms are sequential; meaning if my relation applied the `1nf` then sequentially it may apply second normal form.
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/b512ed8f-c393-49bb-be33-da6ce17c0d95)
 
 _________
