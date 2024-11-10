@@ -32,21 +32,25 @@ ____________
 
 # What does ACID mean? 🎍
 **Atomicity**
+
 	All changes to data are performed as if they are a single operation. That is, all the changes are performed, or none of them are.
 
 	For example, in an application that transfers funds from one account to another, the atomicity property ensures that, if a debit is made successfully from one account, the corresponding credit is made to the other account.
 
 **Consistency**
+
 	Data is in a consistent state when a transaction starts and when it ends.
 	
 	For example, in an application that transfers funds from one account to another, the consistency property ensures that the total value of funds in both the accounts is the same at the start and end of each transaction.
 
 **Isolation**
+
 	The intermediate state of a transaction is invisible to other transactions. As a result, transactions that run concurrently appear to be serialized(one after the other, without any overlap)
 	
 	For example, in an application that transfers funds from one account to another, the isolation property ensures that another transaction sees the transferred funds in one account or the other, but not in both, nor in neither.
 
 **Durability**
+
 	After a transaction successfully completes, changes to data persist(stays) and are not undone, even in the event of a system failure.
 
 
@@ -107,9 +111,11 @@ here i made a transaction but didn't commit, it showed the changes cause the tra
 ![Pasted image 20241110201710](https://github.com/user-attachments/assets/63338ef3-d55e-418d-9566-36b833a1cd10)
 
 but will not show in another server
+
 ![Pasted image 20241110201844](https://github.com/user-attachments/assets/6708d495-0ff9-40ef-b512-8c3ff3f8b994)
 
 only once committed it showed in both
+
 ![Pasted image 20241110202219](https://github.com/user-attachments/assets/a8773af9-6515-4f38-b7a0-e8e29acf049d)
 
 
@@ -117,9 +123,11 @@ only once committed it showed in both
 ![Pasted image 20241110202250](https://github.com/user-attachments/assets/652f0cb6-b046-4aec-8e92-a1ff9ddefef5)
 
 rollback will neglect the transactions that happened
+
 ![Pasted image 20241110202407](https://github.com/user-attachments/assets/2cf819ae-b59b-4594-9350-6555ac655855)
 
 with `autocommit`
+
 ![Pasted image 20241110202600](https://github.com/user-attachments/assets/04bb939d-94a7-449c-b227-529b38df8c54)
 
 
