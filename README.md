@@ -16,4 +16,5 @@ Here I put some courses related to data engineering that I've taken and will be 
 |✔️| [Docker ](https://www.youtube.com/watch?v=PrusdhS2lmo&t=10116s) | youtube | Docker till Docker Swarm |
 |✔️| [SQL for data analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=134s) | youtube | Sql intermediate |
 |ongoing|[SQL Practise](https://www.w3resource.com/sql-exercises/)| w3resource | Sql practising |
+|✔️|[Advanced SQL- 365 Data science](https://learn.365datascience.com/courses/advanced-sql/)| 365 Data science | Advanced SQL topics |
 
