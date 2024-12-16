@@ -1,4 +1,5 @@
 # ch.1 What Is Data Modeling?
+________
 
 # Table Of Content📜 
 - [In simple words, what's data modeling?](#in-simple-words-whats-data-modeling)
@@ -19,7 +20,6 @@
 - [Performance](#performance)
 - [Conceptual, Logical, and Physical Data Models](#conceptual-logical-and-physical-data-models)
 	- [What's conceptual data model?](#whats-conceptual-data-model)
-		- [example:](#example)
 	- [What's logical data model?](#whats-logical-data-model)
 	- [What's physical data model?](#whats-physical-data-model)
 	- [We can think of the physical database design as the inside of a black box, or the engine under the hood](#we-can-think-of-the-physical-database-design-as-the-inside-of-a-black-box-or-the-engine-under-the-hood)
@@ -30,7 +30,7 @@
 - [Why is the three layer architecture important?](#why-is-the-three-layer-architecture-important)
 - [Data Models vs. Database Layers](#data-models-vs-database-layers)
 
-
+________________
 # In simple words, what's data modeling?
 - the design of the data structures and the documentation of that design in a set of data models.
 - A **data model** specifies **what data the system will store and how it will be organized**
