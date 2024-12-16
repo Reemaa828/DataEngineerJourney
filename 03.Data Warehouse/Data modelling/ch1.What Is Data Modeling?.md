@@ -1,4 +1,4 @@
-# ch.1 What Is Data Modeling?
+# What Is Data Modeling?
 ________
 
 # Table Of Content📜 
