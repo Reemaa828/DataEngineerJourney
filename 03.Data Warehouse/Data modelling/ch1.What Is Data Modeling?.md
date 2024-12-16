@@ -5,13 +5,11 @@ ________
 - [In simple words, what's data modeling?](#in-simple-words-whats-data-modeling)
 - [What's an information system?](#whats-an-information-system)
 - [Why is data modeling important](#why-is-data-modeling-important)
-- 
 			- [Leverage التأثير](#leverage-%D8%A7%D9%84%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1)
 			- [Conciseness الايجاز](#conciseness-%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B2)
 			- [Data Quality](#data-quality)
   
 - [What makes a good data model?](#what-makes-a-good-data-model)
-- 
 			- [Completeness الاكتمال](#completeness-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84)
 			- [Non-redundancyعدم التكرار](#non-redundancy%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%AA%D9%83%D8%B1%D8%A7%D8%B1)
 			- [Enforcement of Business Rules](#enforcement-of-business-rules)
@@ -23,7 +21,7 @@ ________
   
 - [Performance](#performance)
 - [Conceptual, Logical, and Physical Data Models](#conceptual-logical-and-physical-data-models)
-- 
+  
 	- [What's conceptual data model?](#whats-conceptual-data-model)
 	- [What's logical data model?](#whats-logical-data-model)
 	- [What's physical data model?](#whats-physical-data-model)
