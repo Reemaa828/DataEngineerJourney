@@ -18,4 +18,5 @@ Here I put some courses related to data engineering that I've taken and will be 
 |ongoing|[SQL Practise](https://www.w3resource.com/sql-exercises/)| w3resource | Sql practising |
 |✔️|[Advanced SQL- 365 Data science](https://learn.365datascience.com/courses/advanced-sql/)| 365 Data science | Advanced SQL topics |
 |ongoing|[Data Warehouse playlist](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)| youtube | DWH |
+|ongoing|[Data Modeling](https://youtube.com/playlist?list=PLxNoJq6k39G_Ffv8Na1oRbob0sVHfFc_T&si=dbOqgB7JbcTIjFvO)| youtube | Data modeling concepts|
 
